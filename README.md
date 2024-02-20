@@ -1,3 +1,4 @@
 - index criada
 - stylos criado
 - alteração na imagem
+- alteração no titulo
