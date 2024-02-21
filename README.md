@@ -2,3 +2,4 @@
 - stylos criado
 - alteração na imagem
 - alteração no titulo
+- site concluido
